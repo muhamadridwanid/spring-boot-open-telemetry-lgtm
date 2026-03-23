@@ -2,6 +2,12 @@
 
 This repository is a Proof of Concept (PoC) for implementing **Full-Stack Observability** using **Spring Boot 4 (Java 21)** and **OpenTelemetry**. It demonstrates how to collect and correlate the three pillars of observability—Logs, Metrics, and Traces—using the **Grafana LGTM Stack**.
 
+<img width="945" height="430" alt="image" src="https://github.com/user-attachments/assets/4ab53064-9861-4f6f-9cbc-12d47db8e6c7" />
+
+<img width="954" height="439" alt="image" src="https://github.com/user-attachments/assets/2854209c-422d-4882-af6f-6ae1c0540d60" />
+
+<img width="944" height="436" alt="image" src="https://github.com/user-attachments/assets/4b939d96-4559-4e08-801f-e93db8a327fd" />
+
 ## 🏗️ Architecture & Technology
 
 The project is designed for "Low-Code Observability," providing instant visibility into application performance with minimal manual configuration.
