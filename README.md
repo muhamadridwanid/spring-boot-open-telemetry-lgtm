@@ -32,7 +32,7 @@ The project is designed for "Low-Code Observability," providing instant visibili
 
 1.  **Clone the Repository**:
     ```bash
-    git clone [https://github.com/your-username/spring-boot-open-telemetry-lgtm.git](https://github.com/muhamadridwanid/spring-boot-open-telemetry-lgtm.git)
+    git clone https://github.com/muhamadridwanid/spring-boot-open-telemetry-lgtm.git
     cd spring-boot-open-telemetry-lgtm
     ```
 
