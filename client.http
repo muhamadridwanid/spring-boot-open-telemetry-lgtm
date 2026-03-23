@@ -1,0 +1,11 @@
+### Simple endpoint
+GET http://localhost:8080/
+
+### Greeting with path variable
+GET http://localhost:8080/greet/World
+
+### Slow operation (500ms)
+GET http://localhost:8080/slow
+
+### Exception
+GET http://localhost:8080/exception
